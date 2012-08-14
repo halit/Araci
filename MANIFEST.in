@@ -1,0 +1,4 @@
+include AUTHORS CHANGELOG COPYING INSTALL README TODO
+recursive-include icon *
+recursive-include ui *
+recursive-include src *
